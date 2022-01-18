@@ -11,4 +11,4 @@ De kurser jag läst hitills är:
 * __DT068G Webbanvändbarhet__
 * __DT163G Digital bildbehandling för webb__
 
-Det var allt från mig, ha det fint! 👋
+Det var allt från mig, ha det! 👋
